@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Daniel Felipe Guarín Martínez</h1>
+<h1 align="center">Hola 👋, Soy Daniel Guarín </h1>
 <h3 align="center">Un apasionado Desarrollador de Software y Entusiasta del Machine Learning de Colombia</h3>
 
 <br>

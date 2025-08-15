@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Daniel Felipe Guarín Martínez</h1>
 <h3 align="center">Un apasionado Desarrollador de Software y Entusiasta del Machine Learning de Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dfguarinm&label=Profile%20views&color=0e75b6&style=flat" alt="dfguarinm" /> </p>
-
 <br>
 
 <p align="justify">

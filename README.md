@@ -56,14 +56,3 @@ Además, soy un gran aficionado al <b>desarrollo de videojuegos</b>, explorando 
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">📊 Mis Estadísticas de GitHub</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dfguarinm&show_icons=true&locale=es&layout=compact&theme=vision-friendly-dark" alt="dfguarinm" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dfguarinm&show_icons=true&locale=es&theme=vision-friendly-dark" alt="dfguarinm" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfguarinm&theme=vision-friendly-dark" alt="dfguarinm" />
-</p>
